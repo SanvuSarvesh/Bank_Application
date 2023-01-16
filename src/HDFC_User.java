@@ -5,8 +5,7 @@ public class HDFC_User implements BankInterface {
     // Attributes
     private String name;
     private String accpuntNo;
-    private doub
-    le balance;
+    private double balance;
     private String password;
     private static double rateOfInterest;
     // Create getters and setters for all function
